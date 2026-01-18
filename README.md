@@ -17,4 +17,4 @@ Manual file management is time-consuming. This utility provides a "one-click" so
 ## 4. How to Run
 1. Compile: `javac FileOrganizer.java`
 2. Launch GUI: `java FileOrganizer`
-3. Launch CLI: `java FileOrganizer "your/folder/path"`
+3. Launch CLI: `java FileOrganizer "yourName/folder/path"`
